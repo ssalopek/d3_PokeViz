@@ -1,0 +1,63 @@
+name,pp,power,type
+Explosion,5,250,Normal
+Self-Destruct,5,200,Normal
+Skull Bash,10,130,Normal
+Mega Kick,5,120,Normal
+Pound,35,40,Normal
+Take Down,20,90,Normal
+Strength,15,80,Normal
+Vice Grip,30,100,Normal
+Tackle,35,40,Normal
+Fury Swipes,15,18,Normal
+Constrict,35,10,Normal
+Fire Blast,5,110,Fire
+Flamethrower,15,90,Fire
+Fire Punch,15,75,Fire
+Ember,25,35,Fire
+Fire Spin,15,35,Fire
+Hydro Pump,7,110,Water
+Crabhammer,10,100,Water
+Surf,14,90,Water
+Waterfall,15,80,Water
+Bubble Beam,20,65,Water
+Water Gun,27,40,Water
+Clamp,10,35,Water
+Thunder,10,110,Electric
+Thunderbolt,17,90,Electric
+Thunder Punch,16,75,Electric
+Thunder Shock,30,40,Electric
+Petal Dance,10,120,Grass
+Razor Leaf,25,55,Grass
+Vine Whip,25,45,Grass
+Mega Drain,15,40,Grass
+Absorb,25,20,Grass
+Aurora Beam,6,110,Ice
+Ice Beam,10,90,Ice
+Ice Punch,15,60,Ice
+Blizzard,5,130,Ice
+High Jump Kick,10,140,Fighting
+Jump Kick,12,95,Fighting
+Submission,20,80,Fighting
+Rolling Kick,16,60,Fighting
+Karate Chop,25,65,Fighting
+Sludge,20,55,Poison
+Acid,30,45,Poison
+Smog,20,30,Poison
+Poison Sting,35,15,Poison
+Earthquake,11,100,Ground
+Dig,10,80,Ground
+Bone Club,21,65,Ground
+Bonemerang,10,50,Ground
+Sky Attack,5,150,Flying
+Fly,15,100,Flying
+Drill Peck,20,75,Flying
+Peck,35,30,Flying
+Dream Eater,15,150,Psychic
+Psybeam,18,65,Psychic
+Confusion,25,75,Psychic
+Leech Life,10,70,Bug
+Twineedle,20,20,Bug
+Pin Missile,20,10,Bug
+Rock Slide,5,75,Rock
+Rock Throw,15,50,Rock
+Lick,30,30,Ghost

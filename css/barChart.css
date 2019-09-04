@@ -1,0 +1,11 @@
+.toolTip2 {
+    position: fixed;
+  display: none;
+  min-width: 80px;
+  height: auto;
+  background: none repeat scroll 0 0 #F3BE17;
+  border: 2px solid #FB6107;
+  padding: 14px;
+  text-align: center;
+}
+  
